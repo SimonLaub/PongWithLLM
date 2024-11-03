@@ -24,6 +24,6 @@ Where the code runs after a few minor corrections. <br>
 <br>
 The code is here: <a href="PongSelfPlay.py">PongSelfPlay.py</a>.<br>
 <h2>Exercise 3.</h2>
-After the small changes to Pong game (exercise 1 and 2), <br>
+After the small changes to the Pong game (exercise 1 and 2), <br>
 you can then move on to a shooter game.
 <img src="Pics/AskShooter.jpg" alt="Question" width="500"><br>
