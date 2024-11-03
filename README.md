@@ -17,9 +17,12 @@ Running the game, it looks like this:<br>
 <img src="Pics/PongGif.gif" alt="Introduction" width="400"><br>
 The code is here: <a href="PongIntialVersion.py">PongIntialVersion.py</a>.<br>
 <h2>Exercise 2.</h2>
-Next, you should try to make a small change to the game. 
-One possibility is to ask for a version with “self-play”, where the computer also controls the bat.
+Next, you should try to make a small change to the game. <br>
+One possibility is to ask for a version with “self-play”,<br> where the computer also controls the bat.
 <img src="Pics/Ask2Computermode.jpg" alt="Question" width="500"><br>
+Where the code runs after a few minor corrections. <br>
+<br>
+The code is here: <a href="PongSelfPlay.py">PongSelfPlay.py</a>.<br>
 <h2>Exercise 3.</h2>
 We begin chatting with ChatGPT (version ChatGPT o1-preview).
 <img src="Pics/Ask1.jpg" alt="Question" width="500"><br>
