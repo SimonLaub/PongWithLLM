@@ -32,5 +32,14 @@ But, after a few minor corrections, <br>it is also possible to make that code ru
 So, not that bad.<br>
 <img src="Pics/Shootergame1.jpg" alt="Question" width="400"><br>
 The code is here: <a href="Shooter.py">Shooter.py</a>.<br>
+<h2>Exercise 4.</h2>
+So, is it all too easy to make small games like this?<br>
+<br>
+Maybe.<br>
+Look at this study, that explores the impact of LLMs on human creativity:<br>
+ <a href="https://techxplore.com/news/2024-10-explores-impact-llms-human-creativity.html" target="_blank">Study explores the impact of LLMs on human creativity</a>
+and
+ <a href="https://arxiv.org/abs/2410.03703" target="_blank">Human Creativity in the Age of LLMs: Randomized Experiments on Divergent and Convergent Thinking</a>.<br>
+
 
 
