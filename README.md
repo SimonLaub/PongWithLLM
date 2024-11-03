@@ -51,7 +51,7 @@ Indeed:
 
 <blockquote>“The researchers were also surprised to find that the previously reported homogenization effect (i.e., the reported tendency of LLM users to come up with less diverse ideas over time) persisted even after participants had stopped using GPT-4o.”</blockquote>
 
-Indeed, "Let's be careful out there".
+Indeed, "Let's be careful out there".<br>
 It always taking a little thinking, even working with LLMs.
 
 
