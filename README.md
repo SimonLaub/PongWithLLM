@@ -41,5 +41,13 @@ Look at this study, that explores the impact of LLMs on human creativity:<br>
 and<br>
  <a href="https://arxiv.org/abs/2410.03703" target="_blank">Human Creativity in the Age of LLMs: Randomized Experiments on Divergent and Convergent Thinking</a>.<br>
 
+ The authors argue that:
+ <blockquote>
+"However, there are growing concerns, which have not yet received sufficient attention, about the long-term impact of these tools on human creativity. We hypothesized that the repeated use of large language models (LLMs) might be impairing our ability to think creatively on our own, despite enhancing performance while the tool is in use—similar to the temporary boost provided by performance-enhancing steroids in sports."</blockquote>
+
+Indeed:
+“The researchers found that across both experiments, the use of GPT-4o had improved the performance of participants during the exposure phase. Interestingly, however, participants who did not initially use GPT-4o were found to outperform participants who had access to the model during the test phase.”
+
+
 
 
