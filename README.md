@@ -11,7 +11,7 @@ Exciting.
 <h2>Exercise 1.</h2>
 We begin chatting with ChatGPT (version ChatGPT o1-preview).
 <img src="Pics/Ask1.jpg" alt="Question" width="500"><br>
-Apparently, that was an easy thing to do. So, ChatGPT returns with code that works out of the box. <br>
+Apparently, that was an easy thing to do.<br> So, ChatGPT returns with code that works out of the box. <br>
 <br>
 Running the game, it looks like this:<br>
 <img src="Pics/PongGif.gif" alt="Introduction" width="400"><br>
