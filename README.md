@@ -9,4 +9,6 @@ So, here we go. We are going to create a car game with the help of an LLM <br>
 (See the original exercise description <a href="PongAndShooterGameProgrammingWithLLM.pdf">here</a>).<br>
 Exciting.
 <h2>Exercise 1.</h2>
+We begin chatting with ChatGPT (version ChatGPT o1-preview).
+<img src="Pics/blue2.jpg" alt="Introduction" width="500"><br>
 
