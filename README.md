@@ -28,8 +28,8 @@ After the small changes to the Pong game (exercise 1 and 2), <br>
 you can then move on to a shooter game.
 <img src="Pics/AskShooter.jpg" alt="Question" width="500"><br>
 The code returned from ChatGPT (sadly) initially crahes. <br>
-But, after a few minor corrections, <br>it is also possible to make that code run.<br>
-So, not that bad.<br>
+But, after a few corrections, <br>it is also possible to make that code run.<br>
+Well, well...<br>
 <img src="Pics/Shootergame1.jpg" alt="Question" width="400"><br>
 The code is here: <a href="Shooter.py">Shooter.py</a>.<br>
 <h2>Exercise 4.</h2>
