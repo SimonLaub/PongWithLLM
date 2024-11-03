@@ -21,7 +21,7 @@ The code is here: <a href="PongIntialVersion.py">PongIntialVersion.py</a>.<br>
 Next, you should try to make a small change to the game. <br>
 One possibility is to ask for a version with “self-play”,<br> where the computer also controls the bat.
 <img src="Pics/Ask2Computermode.jpg" alt="Question" width="500"><br>
-Where the code runs after a few minor corrections. <br>
+Again, pretty good, and the code runs after only a few minor corrections. <br>
 <br>
 Running the game (In its final version),<br> it looks like this:<br>
 <img src="Pics/PongGif.gif" alt="Introduction" width="400"><br>
