@@ -27,8 +27,8 @@ The code is here: <a href="PongSelfPlay.py">PongSelfPlay.py</a>.<br>
 After the small changes to the Pong game (exercise 1 and 2), <br>
 you can then move on to a shooter game.
 <img src="Pics/AskShooter.jpg" alt="Question" width="500"><br>
-The code returned from ChatGPT sadly crahes. <br>
-But after a small fix, that code also runs.<br>
+The code returned from ChatGPT (sadly) initially crahes. <br>
+But, after a few minor corrections, it is also possible to make that code run.<br>
 <img src="Pics/Shootergame1.jpg" alt="Question" width="400"><br>
 
 
