@@ -36,7 +36,7 @@ Well, well...<br>
 <img src="Pics/Shootergame1.jpg" alt="Question" width="400"><br>
 The code is here: <a href="Shooter.py">Shooter.py</a>.<br>
 <h2>Exercise 4.</h2>
-So, is it <b>all too easy</b> to make small games like this?<br>
+So, is it <b>all too easy</b> to make (LLM assisted) small games like this?<br>
 Maybe.<br>
 <br>
 Look at this study, that explores the impact of LLMs on human creativity:<br>
