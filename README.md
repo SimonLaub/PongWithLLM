@@ -10,9 +10,10 @@ So, here we go. We are going to create a car game with the help of an LLM <br>
 Exciting.
 <h2>Exercise 1.</h2>
 We begin chatting with ChatGPT (version ChatGPT o1-preview).
-<img src="Pics/Ask1.jpg" alt="Introduction" width="500"><br>
+<img src="Pics/Ask1.jpg" alt="Question" width="500"><br>
 Apparently, that was an easy thing to do. So, ChatGPT returns with code that works out of the box. <br>
 <br>
 Running the game, it looks like this:<br>
+<img src="Pics/PongGif.jpg" alt="Introduction" width="500"><br>
 
 
