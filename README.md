@@ -14,6 +14,6 @@ We begin chatting with ChatGPT (version ChatGPT o1-preview).
 Apparently, that was an easy thing to do. So, ChatGPT returns with code that works out of the box. <br>
 <br>
 Running the game, it looks like this:<br>
-<img src="Pics/PongGif.jpg" alt="Introduction" width="500"><br>
+<img src="Pics/PongGif.gif" alt="Introduction" width="500"><br>
 
 
