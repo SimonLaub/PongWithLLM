@@ -53,8 +53,9 @@ Indeed:
 
 Indeed, "Let's be careful out there".<br>
 It always takes a little thinking, even working with LLMs.<br>
-Of course.
-Understanding the process you are in, the benefits and  disadvantages, is always important, indeed. 
+Of course.<br>
+<br>
+Understanding the process you are in, the benefits and  disadvantages,<br> is always important, indeed. 
 
 
 
