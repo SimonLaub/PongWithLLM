@@ -19,7 +19,7 @@ The code is here: <a href="PongIntialVersion.py">PongIntialVersion.py</a>.<br>
 <h2>Exercise 2.</h2>
 Next, you should try to make a small change to the game. 
 One possibility is to ask for a version with “self-play”, where the computer also controls the bat.
-<img src="Pics/Ask1.jpg" alt="Question" width="500"><br>
+<img src="Pics/Ask2Computermode.jpg" alt="Question" width="500"><br>
 <h2>Exercise 3.</h2>
 We begin chatting with ChatGPT (version ChatGPT o1-preview).
 <img src="Pics/Ask1.jpg" alt="Question" width="500"><br>
