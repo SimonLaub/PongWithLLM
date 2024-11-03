@@ -46,8 +46,13 @@ and<br>
 "However, there are growing concerns, which have not yet received sufficient attention, about the long-term impact of these tools on human creativity. We hypothesized that the repeated use of large language models (LLMs) might be impairing our ability to think creatively on our own, despite enhancing performance while the tool is in use—similar to the temporary boost provided by performance-enhancing steroids in sports."</blockquote>
 
 Indeed:
-“The researchers found that across both experiments, the use of GPT-4o had improved the performance of participants during the exposure phase. Interestingly, however, participants who did not initially use GPT-4o were found to outperform participants who had access to the model during the test phase.”
+ <blockquote>
+“The researchers found that across both experiments, the use of GPT-4o had improved the performance of participants during the exposure phase. Interestingly, however, participants who did not initially use GPT-4o were found to outperform participants who had access to the model during the test phase.”</blockquote>
 
+<blockquote>“The researchers were also surprised to find that the previously reported homogenization effect (i.e., the reported tendency of LLM users to come up with less diverse ideas over time) persisted even after participants had stopped using GPT-4o.”</blockquote>
+
+Indeed, "Let's be careful out there".
+It always taking a little thinking, even working with LLMs.
 
 
 
