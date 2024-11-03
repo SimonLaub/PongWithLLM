@@ -13,7 +13,7 @@ Exciting.
 <h2>Exercise 1.</h2>
 We begin chatting with ChatGPT (version ChatGPT o1-preview).
 <img src="Pics/Ask1.jpg" alt="Question" width="500"><br>
-Apparently, that was an easy thing to do.<br> So, ChatGPT returns with code that works out of the box. <br>
+Apparently, that was an easy thing to do.<br> So, ChatGPT returns with code that works out of the box...<br>
 <br>
 <img src="Pics/PongDump2.jpg" alt="Pong game" width="400"><br>
 The code is here: <a href="PongIntialVersion.py">PongIntialVersion.py</a>.<br>
